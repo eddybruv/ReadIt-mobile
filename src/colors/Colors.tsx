@@ -4,3 +4,4 @@ export const Accent = "#FDBD2B";
 export const White = "white";
 export const Dark = "black";
 export const LightShade1 = "#F5F5F5";
+export const Background = "#3c41cf";
